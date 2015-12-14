@@ -1,7 +1,7 @@
 name: Marwan
 favicon: null
-layout_spectrum: 0.7190615788567811
-typography_spectrum: 0.2989919849205762
+layout_spectrum: 0.88885
+typography_spectrum: 0.58675
 title: "Marwan Alzarouni's Grid-O-Matic!"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.4750536377541721
+  brandStrength: 0.1875
   lightness: 0.706365785561502
-  saturation: 0.4462366921361536
-  rhythmicContrast: 0.12169313500635326
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []

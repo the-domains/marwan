@@ -4,8 +4,15 @@
         <description><![CDATA[Marwan.com]]></description>
         <link>https://thegrid.ai/marwan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 10:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 21:21:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marwan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Future]]></title>
+            <description><![CDATA[<article><h1>The Future</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce145435395751de80a9ccbddcc288f654bb974a.png"></article>]]></description>
+            <link>https://thegrid.ai/marwan/the-future/index.html</link>
+            <guid isPermaLink="false">392026e0-175f-4c9d-a45d-8e413f90fc40</guid>
+            <pubDate>Wed, 02 Mar 2016 21:20:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a207e236-bc6c-4472-ba5b-ed27aab4595c.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/marwan/956a417e-2cfd-4947-8ef9-f8d0e0143636/index.html</link>
             <guid isPermaLink="false">956a417e-2cfd-4947-8ef9-f8d0e0143636</guid>
             <pubDate>Tue, 01 Mar 2016 19:25:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hot is only Relative!]]></title>
-            <description><![CDATA[<article><h1>Hot is only Relative!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db3487c18415a9a9af22c590ac6bae0d58924b5e.png"></article>]]></description>
-            <link>https://thegrid.ai/marwan/hot-is-only-relative/index.html</link>
-            <guid isPermaLink="false">7ae7f6b0-5914-42ba-9907-0583b819abd1</guid>
-            <pubDate>Tue, 01 Mar 2016 18:15:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
